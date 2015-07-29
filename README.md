@@ -1,9 +1,4 @@
----
-  tags: stay-fresh, kids, ruby
-  languages: ruby
-  level: 1
-  type: stay-fresh
----
+
 
 # Stay Fresh
 <img src="https://s3.amazonaws.com/after-school-assets/strings.jpg" align="right" width="200">
